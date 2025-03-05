@@ -33,20 +33,10 @@ const MyStack = () => {
 };
 const Layout = MyStack();
 
+const add = () =>{
+    "asdasdsada"
+}
 
-// const Stack = StackNavigator({
-// Home:  {
-//   screen: Home,
-//   navigationOptions: ({ navigation }) => ({
-//     // gesturesEnabled: false,
-//     header: null
-//   })
-// },
-//   Detail: {
-//     screen: Details
-//   }
-// })
-//Cheking committtinggg 
 function App() {
   return (
 
