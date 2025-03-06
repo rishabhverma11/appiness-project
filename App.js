@@ -34,7 +34,7 @@ const MyStack = () => {
 const Layout = MyStack();
 
 const add = () =>{
-    "asdarishasdasdasdasdasdsada"
+    return "R"
 }
 
 function App() {
